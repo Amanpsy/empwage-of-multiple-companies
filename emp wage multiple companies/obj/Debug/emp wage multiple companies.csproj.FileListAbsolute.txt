@@ -1,0 +1,8 @@
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\bin\Debug\emp wage multiple companies.exe.config
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\bin\Debug\emp wage multiple companies.exe
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\bin\Debug\emp wage multiple companies.pdb
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\obj\Debug\emp wage multiple companies.csproj.AssemblyReference.cache
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\obj\Debug\emp wage multiple companies.csproj.SuggestedBindingRedirects.cache
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\obj\Debug\emp wage multiple companies.csproj.CoreCompileInputs.cache
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\obj\Debug\emp wage multiple companies.exe
+C:\Users\amakuma6\source\repos\emp wage multiple companies\emp wage multiple companies\obj\Debug\emp wage multiple companies.pdb
